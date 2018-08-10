@@ -15,4 +15,11 @@ margin: 0;
 #main-header {
   background-color: #009999;
   color: #f4f4f4;
-  text-shadow: 16px
+}
+
+#picture {
+  background-image: url('../images/triangle1.jpg');
+  background-position: center right;
+  min-height: 300x;
+  margin-bottom: 30px;
+  text-align: center;
