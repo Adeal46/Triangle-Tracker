@@ -18,7 +18,6 @@ margin: 0;
 }
 
 #picture {
-  background-image: url("..Javascript/images/triangle1.jpg");
   background-position: center right;
   min-height: 300x;
   margin-bottom: 30px;
