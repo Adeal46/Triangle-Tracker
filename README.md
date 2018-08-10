@@ -10,5 +10,5 @@
 
 # It is my second week project at Moringa school.
 #You may visit the website https://adeal46.github.io/Triangle-Tracker/
-#All Rights reserved
+All Rights reserved
  Copyright @2018 Triangle tracker
