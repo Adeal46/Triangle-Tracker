@@ -3,6 +3,11 @@
 <head>
   <title>Javascript</title>
   <link rel="stylesheet" href="styles.css">
+  <style>
+  body {
+    background-image: url(../javascript/images/colour2.svg);
+  }
+  </style>
 </head>
 
 <body>
@@ -27,11 +32,34 @@
      </ol>
   </div>
 </section>
+
+<!-- Form -->
+
+<form action="process.php" method="POST">
+  <div>
+    <label>First Name</label>
+    <input type="text" name="firstName" placeholder="Enter First Name">
+  </div>
+  <br>
+  <div>
+    <label>Last Name</label>
+    <input type="text" name="lastName" placeholder="Enter Last Name">
+  </div>
+  <br>
+  <div>
+    <label>Email</label>
+    <input type="email" name="email" placeholder="example@gmail.com">
+  </div>
+  <br>
+  <div>
+    <label>Message</label>
+    <textarea name="message"></textarea>
+  </div>
   <script src="script.js"></script>
 
   <!-- Footer -->
 
-  <footer id="main-footer">
+  <footer class="main-footer">
     <p>Copyright &copy; 2018 Triangle Tracker</p>
   </footer>
 </body>
