@@ -1,7 +1,7 @@
 # Triangle-Tracker
 # Author- Adil Lema
 # This site is special for determination of different types of triangle by inserting its length values.
-     example;
+     Example:
      Equilateral: All sides are equal.
      Isosceles: Exactly 2 sides are equal.
      Scalene: No sides are equal.
